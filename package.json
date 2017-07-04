@@ -1,0 +1,33 @@
+{
+  "name": "rightclick",
+  "version": "1.0.0",
+  "description": "web development and design",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CreativeRob/RightClick.git"
+  },
+  "keywords": [
+    "web",
+    "design",
+    "development",
+    "creative",
+    "rob",
+    "right",
+    "click",
+    "rightclick"
+  ],
+  "author": "Rob Moore",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CreativeRob/RightClick/issues"
+  },
+  "homepage": "https://github.com/CreativeRob/RightClick#readme",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.2.1"
+  }
+}
